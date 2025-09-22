@@ -9,19 +9,8 @@ A simple, smart placement portal for colleges.
 ## Why it’s cool
 No more endless spreadsheets. Students and recruiters meet in one place, and the AI does the boring matching work.
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1mpJAQ3-rnt17awy58cgK4GX4gMdW4trm
-
-## Run Locally
-
-**Prerequisites:**  Node.js
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+
+  
